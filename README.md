@@ -1,2 +1,2 @@
 # pushtest
-(test link)[http://line.me]
+(testlink)[http://line.me]
